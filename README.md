@@ -13,9 +13,9 @@ __진하게__
 _기울이기_
 ~~취소선~~
 <u>밑줄</u>
-네이버(https://www.naver.com/ "말풍선")
-자동연결 : <https://www.naver.com/>
-#<표>
++ 네이버(https://www.naver.com/ "말풍선")
++ 자동연결 : <https://www.naver.com/>
+# <표>
 ||수학|평가|
 |:---|---:|:---:|
 |찬형|90|잘했어요|
